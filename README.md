@@ -33,3 +33,19 @@
     <p></p>
 </body>
 </html>
+    
+body{
+    background-color: rgb(23, 23, 23);
+}
+h1{
+    color: rgb(255, 0, 0);
+    background-color: white;
+    text-align: center;
+}
+h3{
+    color: rgb(74, 255, 83);
+}
+p{
+    color: white;
+    text-align: justify;
+}
